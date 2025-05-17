@@ -1,0 +1,128 @@
+2025-04-23 23:56:46: 服务器运行在 http://0.0.0.0:3111
+2025-04-23 23:57:35: Received uploadUUID request: {
+  system: 'Windows',
+  uuid: '73b8083c-b808-43b8-073b-000000000073',
+  isAuth: false
+}
+2025-04-23 23:57:35: Processing uploadUUID with system: Windows and uuid: 73b8083c-b808-43b8-073b-000000000073
+2025-04-23 23:57:35: uploadUUID result: { success: true, result: '73b8083c-b808-43b8-073b-000000000073' }
+2025-04-23 23:57:40: 5Yy755aX5Zy65pmv5qih5Z6L55qE6K6/6ZeudG9rZW4=
+2025-04-23 23:57:40: hehehe
+2025-04-23 23:57:58: Received uploadUUID request: { system: 'Windows', uuid: '73b8083c-b808-43b8-073b-000000000073' }
+2025-04-23 23:57:58: Processing uploadUUID with system: Windows and uuid: 73b8083c-b808-43b8-073b-000000000073
+2025-04-23 23:57:58: uploadUUID result: { success: true, result: '73b8083c-b808-43b8-073b-000000000073' }
+2025-04-23 23:58:01: 开始挂载加密分区
+2025-04-23 23:58:08: 模型业务区挂载成功: 
+2025-04-23 23:58:08: 开始下载核心文件，参数： {
+  uuid: '73b8083c-b808-43b8-073b-000000000073',
+  url: '5Yy755aX5Zy65pmv5qih5Z6L55qE6K6/6ZeudG9rZW4='
+}
+2025-04-23 23:58:08: 读取到的 URLs: {
+  '0': '6ZqQ56eB6K+G5Yir5qih5Z6L55qE6K6/6ZeudG9rZW4=',
+  '1': '5Yy755aX5Zy65pmv5qih5Z6L55qE6K6/6ZeudG9rZW4=',
+  '2': '57+76K+R5Zy65pmv5qih5Z6L55qE6K6/6ZeudG9rZW4=',
+  '3': 'aGFoYeWcuuaZr+aooeWei+eahOiuv+mXrnRva2Vu'
+}
+2025-04-23 23:58:08: 找到的模型索引: 1
+2025-04-23 23:58:08: 检查文件路径: {
+  ptFile: '/home/cloud_server/nxg/modelSide_business/precision_area_mount/model_1.pt',
+  mdFile: '/home/cloud_server/nxg/modelSide_business/model_1.md'
+}
+2025-04-23 23:58:08: 文件访问检查通过
+2025-04-24 00:00:35: 服务器运行在 http://0.0.0.0:3111
+2025-04-24 00:00:56: Received uploadUUID request: {
+  system: 'Windows',
+  uuid: '73b8083c-b808-43b8-073b-000000000073',
+  isAuth: false
+}
+2025-04-24 00:00:56: Processing uploadUUID with system: Windows and uuid: 73b8083c-b808-43b8-073b-000000000073
+2025-04-24 00:00:56: uploadUUID result: { success: true, result: '73b8083c-b808-43b8-073b-000000000073' }
+2025-04-24 00:00:57: 5Yy755aX5Zy65pmv5qih5Z6L55qE6K6/6ZeudG9rZW4=
+2025-04-24 00:00:57: hehehe
+2025-04-24 00:01:18: Received uploadUUID request: { system: 'Windows', uuid: '73b8083c-b808-43b8-073b-000000000073' }
+2025-04-24 00:01:18: Processing uploadUUID with system: Windows and uuid: 73b8083c-b808-43b8-073b-000000000073
+2025-04-24 00:01:18: uploadUUID result: { success: true, result: '73b8083c-b808-43b8-073b-000000000073' }
+2025-04-24 00:01:22: 开始挂载加密分区
+2025-04-24 00:01:29: 模型业务区挂载成功: 
+2025-04-24 00:01:29: 开始下载核心文件，参数： {
+  uuid: '73b8083c-b808-43b8-073b-000000000073',
+  url: '5Yy755aX5Zy65pmv5qih5Z6L55qE6K6/6ZeudG9rZW4='
+}
+2025-04-24 00:01:29: 读取到的 URLs: {
+  '0': '6ZqQ56eB6K+G5Yir5qih5Z6L55qE6K6/6ZeudG9rZW4=',
+  '1': '5Yy755aX5Zy65pmv5qih5Z6L55qE6K6/6ZeudG9rZW4=',
+  '2': '57+76K+R5Zy65pmv5qih5Z6L55qE6K6/6ZeudG9rZW4=',
+  '3': 'aGFoYeWcuuaZr+aooeWei+eahOiuv+mXrnRva2Vu'
+}
+2025-04-24 00:01:29: 找到的模型索引: 1
+2025-04-24 00:01:29: 检查文件路径: {
+  ptFile: '/home/cloud_server/nxg/modelSide_business/precision_area_mount/model_1.pt',
+  mdFile: '/home/cloud_server/nxg/modelSide_business/model_1.md'
+}
+2025-04-24 00:01:29: 文件访问检查通过
+2025-04-24 00:02:53: 服务器运行在 http://0.0.0.0:3111
+2025-04-24 00:03:29: Received uploadUUID request: {
+  system: 'Windows',
+  uuid: '73b8083c-b808-43b8-073b-000000000073',
+  isAuth: false
+}
+2025-04-24 00:03:29: Processing uploadUUID with system: Windows and uuid: 73b8083c-b808-43b8-073b-000000000073
+2025-04-24 00:03:29: uploadUUID result: { success: true, result: '73b8083c-b808-43b8-073b-000000000073' }
+2025-04-24 00:03:30: 5Yy755aX5Zy65pmv5qih5Z6L55qE6K6/6ZeudG9rZW4=
+2025-04-24 00:03:30: hehehe
+2025-04-24 00:03:39: Received uploadUUID request: { system: 'Windows', uuid: '73b8083c-b808-43b8-073b-000000000073' }
+2025-04-24 00:03:39: Processing uploadUUID with system: Windows and uuid: 73b8083c-b808-43b8-073b-000000000073
+2025-04-24 00:03:39: uploadUUID result: { success: true, result: '73b8083c-b808-43b8-073b-000000000073' }
+2025-04-24 00:03:44: 开始挂载加密分区
+2025-04-24 00:03:50: 模型业务区挂载成功: 
+2025-04-24 00:03:50: 开始下载核心文件，参数： {
+  uuid: '73b8083c-b808-43b8-073b-000000000073',
+  url: '5Yy755aX5Zy65pmv5qih5Z6L55qE6K6/6ZeudG9rZW4='
+}
+2025-04-24 00:03:50: 读取到的 URLs: {
+  '0': '6ZqQ56eB6K+G5Yir5qih5Z6L55qE6K6/6ZeudG9rZW4=',
+  '1': '5Yy755aX5Zy65pmv5qih5Z6L55qE6K6/6ZeudG9rZW4=',
+  '2': '57+76K+R5Zy65pmv5qih5Z6L55qE6K6/6ZeudG9rZW4=',
+  '3': 'aGFoYeWcuuaZr+aooeWei+eahOiuv+mXrnRva2Vu'
+}
+2025-04-24 00:03:50: 找到的模型索引: 1
+2025-04-24 00:03:50: 检查文件路径: {
+  ptFile: '/home/cloud_server/nxg/modelSide_business/precision_area_mount/model_1.pt',
+  mdFile: '/home/cloud_server/nxg/modelSide_business/model_1.md'
+}
+2025-04-24 00:03:50: 文件访问检查通过
+2025-04-24 00:05:17: 服务器运行在 http://0.0.0.0:3111
+2025-04-24 00:05:36: Received uploadUUID request: {
+  system: 'Windows',
+  uuid: '73b8083c-b808-43b8-073b-000000000073',
+  isAuth: false
+}
+2025-04-24 00:05:36: Processing uploadUUID with system: Windows and uuid: 73b8083c-b808-43b8-073b-000000000073
+2025-04-24 00:05:36: uploadUUID result: { success: true, result: '73b8083c-b808-43b8-073b-000000000073' }
+2025-04-24 00:05:38: 5Yy755aX5Zy65pmv5qih5Z6L55qE6K6/6ZeudG9rZW4=
+2025-04-24 00:05:38: hehehe
+2025-04-24 00:05:47: Received uploadUUID request: { system: 'Windows', uuid: '73b8083c-b808-43b8-073b-000000000073' }
+2025-04-24 00:05:47: Processing uploadUUID with system: Windows and uuid: 73b8083c-b808-43b8-073b-000000000073
+2025-04-24 00:05:47: uploadUUID result: { success: true, result: '73b8083c-b808-43b8-073b-000000000073' }
+2025-04-24 00:05:51: 开始挂载加密分区
+2025-04-24 00:06:00: 模型业务区挂载成功: 
+2025-04-24 00:06:00: 开始下载核心文件，参数： {
+  uuid: '73b8083c-b808-43b8-073b-000000000073',
+  url: '5Yy755aX5Zy65pmv5qih5Z6L55qE6K6/6ZeudG9rZW4='
+}
+2025-04-24 00:06:00: 读取到的 URLs: {
+  '0': '6ZqQ56eB6K+G5Yir5qih5Z6L55qE6K6/6ZeudG9rZW4=',
+  '1': '5Yy755aX5Zy65pmv5qih5Z6L55qE6K6/6ZeudG9rZW4=',
+  '2': '57+76K+R5Zy65pmv5qih5Z6L55qE6K6/6ZeudG9rZW4=',
+  '3': 'aGFoYeWcuuaZr+aooeWei+eahOiuv+mXrnRva2Vu'
+}
+2025-04-24 00:06:00: 找到的模型索引: 1
+2025-04-24 00:06:00: 检查文件路径: {
+  ptFile: '/home/cloud_server/nxg/modelSide_business/precision_area_mount/model_1.pt',
+  mdFile: '/home/cloud_server/nxg/modelSide_business/model_1.md'
+}
+2025-04-24 00:06:00: 文件访问检查通过
+2025-04-24 00:06:00: 模型业务区卸载成功: 
+2025-04-24 00:06:07: 无法访问加密分区
+2025-04-27 18:19:05: 服务器运行在 http://0.0.0.0:3111
+2025-04-27 18:31:16: 服务器运行在 http://0.0.0.0:3111
