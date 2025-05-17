@@ -187,7 +187,7 @@ systemctl restart nginx
 
 Key configuration elements include:
 
-- **Frontend service port configuration**: `server.js`
+- **Frontend service port configuration**: `server.js` [server.js](https://github.com/EMShield/ModelShield/blob/master/M2-Edge-Cloud%20Trusted%20Collaboration/PrototypeSystem/edgeSide_business/backend/server.js)
 
 - **FRP tunneling settings**: `frps.ini`, `frpc.ini`
 
