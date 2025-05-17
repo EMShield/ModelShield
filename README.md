@@ -187,14 +187,14 @@ systemctl restart nginx
 
 Key configuration elements include:
 
-- **Frontend service port configuration**: `server.js` [server.js](https://github.com/EMShield/ModelShield/blob/master/M2-Edge-Cloud%20Trusted%20Collaboration/PrototypeSystem/edgeSide_business/backend/server.js)
+- **Frontend service port configuration**: [server.js](https://github.com/EMShield/ModelShield/blob/master/M2-Edge-Cloud%20Trusted%20Collaboration/PrototypeSystem/edgeSide_business/backend/server.js)
 
-- **FRP tunneling settings**: `frps.ini`, `frpc.ini`
+- **FRP tunneling settings**: [frps.ini](https://github.com/EMShield/ModelShield/blob/master/M2-Edge-Cloud%20Trusted%20Collaboration/PrototypeSystem/edgeSide_business/frps.ini), [frpc.ini](https://github.com/EMShield/ModelShield/blob/master/M2-Edge-Cloud%20Trusted%20Collaboration/PrototypeSystem/edgeSide_business/frpc.ini)
 
-- **Redirect backbone deployment route**: `/services/main_Model.js`
+- **Redirect backbone deployment route**: [/services/main_Model.js](https://github.com/EMShield/ModelShield/blob/master/M2-Edge-Cloud%20Trusted%20Collaboration/PrototypeSystem/edgeSide_business/backend/services/mainModel.js)
    → Target backbone deployment: [Backbone Model](https://modelscope.cn/models/Huiyuchen/hui_model)
 
-- **Core weight deployment setup**: `/services/main_Model.js`
+- **Core weight deployment setup**: [/services/main_Model.js](https://github.com/EMShield/ModelShield/blob/master/M2-Edge-Cloud%20Trusted%20Collaboration/PrototypeSystem/edgeSide_business/backend/services/mainModel.js)
    → `downloadCoreFiles()`
 
   - ```js
